@@ -1,0 +1,529 @@
+{
+  "topCustomers": [
+    {
+      "id": "CUST1000",
+      "name": "CUST1000",
+      "churn_probability": 100
+    },
+    {
+      "id": "CUST1004",
+      "name": "CUST1004",
+      "churn_probability": 100
+    },
+    {
+      "id": "CUST1007",
+      "name": "CUST1007",
+      "churn_probability": 100
+    },
+    {
+      "id": "CUST1008",
+      "name": "CUST1008",
+      "churn_probability": 100
+    },
+    {
+      "id": "CUST1009",
+      "name": "CUST1009",
+      "churn_probability": 100
+    },
+    {
+      "id": "CUST1012",
+      "name": "CUST1012",
+      "churn_probability": 100
+    },
+    {
+      "id": "CUST1013",
+      "name": "CUST1013",
+      "churn_probability": 100
+    },
+    {
+      "id": "CUST1014",
+      "name": "CUST1014",
+      "churn_probability": 100
+    },
+    {
+      "id": "CUST1015",
+      "name": "CUST1015",
+      "churn_probability": 100
+    },
+    {
+      "id": "CUST1016",
+      "name": "CUST1016",
+      "churn_probability": 100
+    }
+  ],
+  "churnTrends": [
+    {
+      "month": "Jan",
+      "churnRate": 96
+    },
+    {
+      "month": "Jan",
+      "churnRate": 79
+    },
+    {
+      "month": "Jan",
+      "churnRate": 101
+    },
+    {
+      "month": "Jan",
+      "churnRate": 112
+    },
+    {
+      "month": "Jan",
+      "churnRate": 106
+    },
+    {
+      "month": "Jan",
+      "churnRate": 84
+    },
+    {
+      "month": "Feb",
+      "churnRate": 87
+    },
+    {
+      "month": "Feb",
+      "churnRate": 95
+    },
+    {
+      "month": "Feb",
+      "churnRate": 79
+    },
+    {
+      "month": "Feb",
+      "churnRate": 114
+    },
+    {
+      "month": "Feb",
+      "churnRate": 106
+    },
+    {
+      "month": "Feb",
+      "churnRate": 98
+    },
+    {
+      "month": "Mar",
+      "churnRate": 93
+    },
+    {
+      "month": "Mar",
+      "churnRate": 107
+    },
+    {
+      "month": "Mar",
+      "churnRate": 100
+    },
+    {
+      "month": "Mar",
+      "churnRate": 86
+    },
+    {
+      "month": "Mar",
+      "churnRate": 114
+    },
+    {
+      "month": "Mar",
+      "churnRate": 79
+    },
+    {
+      "month": "Apr",
+      "churnRate": 86
+    },
+    {
+      "month": "Apr",
+      "churnRate": 114
+    },
+    {
+      "month": "Apr",
+      "churnRate": 107
+    },
+    {
+      "month": "Apr",
+      "churnRate": 93
+    },
+    {
+      "month": "Apr",
+      "churnRate": 79
+    },
+    {
+      "month": "Apr",
+      "churnRate": 100
+    },
+    {
+      "month": "May",
+      "churnRate": 95
+    },
+    {
+      "month": "May",
+      "churnRate": 87
+    },
+    {
+      "month": "May",
+      "churnRate": 114
+    },
+    {
+      "month": "May",
+      "churnRate": 106
+    },
+    {
+      "month": "May",
+      "churnRate": 79
+    },
+    {
+      "month": "May",
+      "churnRate": 98
+    },
+    {
+      "month": "Jun",
+      "churnRate": 93
+    },
+    {
+      "month": "Jun",
+      "churnRate": 77
+    },
+    {
+      "month": "Jun",
+      "churnRate": 83
+    },
+    {
+      "month": "Jun",
+      "churnRate": 71
+    },
+    {
+      "month": "Jun",
+      "churnRate": 105
+    },
+    {
+      "month": "Jun",
+      "churnRate": 99
+    },
+    {
+      "month": "Jul",
+      "churnRate": 105
+    },
+    {
+      "month": "Jul",
+      "churnRate": 90
+    },
+    {
+      "month": "Jul",
+      "churnRate": 100
+    },
+    {
+      "month": "Jul",
+      "churnRate": 78
+    },
+    {
+      "month": "Jul",
+      "churnRate": 73
+    },
+    {
+      "month": "Jul",
+      "churnRate": 95
+    },
+    {
+      "month": "Aug",
+      "churnRate": 101
+    },
+    {
+      "month": "Aug",
+      "churnRate": 81
+    },
+    {
+      "month": "Aug",
+      "churnRate": 74
+    },
+    {
+      "month": "Aug",
+      "churnRate": 108
+    },
+    {
+      "month": "Aug",
+      "churnRate": 86
+    },
+    {
+      "month": "Aug",
+      "churnRate": 93
+    },
+    {
+      "month": "Sep",
+      "churnRate": 92
+    },
+    {
+      "month": "Sep",
+      "churnRate": 72
+    },
+    {
+      "month": "Sep",
+      "churnRate": 106
+    },
+    {
+      "month": "Sep",
+      "churnRate": 79
+    },
+    {
+      "month": "Sep",
+      "churnRate": 85
+    },
+    {
+      "month": "Sep",
+      "churnRate": 99
+    },
+    {
+      "month": "Oct",
+      "churnRate": 91
+    },
+    {
+      "month": "Oct",
+      "churnRate": 70
+    },
+    {
+      "month": "Oct",
+      "churnRate": 77
+    },
+    {
+      "month": "Oct",
+      "churnRate": 84
+    },
+    {
+      "month": "Oct",
+      "churnRate": 104
+    },
+    {
+      "month": "Oct",
+      "churnRate": 97
+    },
+    {
+      "month": "Nov",
+      "churnRate": 76
+    },
+    {
+      "month": "Nov",
+      "churnRate": 112
+    },
+    {
+      "month": "Nov",
+      "churnRate": 94
+    },
+    {
+      "month": "Nov",
+      "churnRate": 103
+    },
+    {
+      "month": "Nov",
+      "churnRate": 86
+    },
+    {
+      "month": "Nov",
+      "churnRate": 85
+    },
+    {
+      "month": "Dec",
+      "churnRate": 76
+    },
+    {
+      "month": "Dec",
+      "churnRate": 93
+    },
+    {
+      "month": "Dec",
+      "churnRate": 71
+    },
+    {
+      "month": "Dec",
+      "churnRate": 98
+    },
+    {
+      "month": "Dec",
+      "churnRate": 88
+    },
+    {
+      "month": "Dec",
+      "churnRate": 103
+    }
+  ],
+  "segmentation": [
+    {
+      "name": "At-Risk Customers",
+      "value": 1083,
+      "color": "#FFA500"
+    },
+    {
+      "name": "High-Value Frequent Buyers",
+      "value": 917,
+      "color": "#FF6B6B"
+    }
+  ],
+  "countries": [
+    {
+      "country": "Canada",
+      "churnRate": 95
+    },
+    {
+      "country": "Germany",
+      "churnRate": 95
+    },
+    {
+      "country": "India",
+      "churnRate": 95
+    },
+    {
+      "country": "Pakistan",
+      "churnRate": 94
+    },
+    {
+      "country": "UK",
+      "churnRate": 94
+    },
+    {
+      "country": "USA",
+      "churnRate": 94
+    }
+  ],
+  "categories": [
+    {
+      "name": "Sports",
+      "countryData": [
+        {
+          "country": "Canada",
+          "churnRate": 98
+        },
+        {
+          "country": "Germany",
+          "churnRate": 97
+        },
+        {
+          "country": "India",
+          "churnRate": 98
+        },
+        {
+          "country": "Pakistan",
+          "churnRate": 96
+        },
+        {
+          "country": "UK",
+          "churnRate": 93
+        },
+        {
+          "country": "USA",
+          "churnRate": 95
+        }
+      ]
+    },
+    {
+      "name": "Home",
+      "countryData": [
+        {
+          "country": "Canada",
+          "churnRate": 94
+        },
+        {
+          "country": "Germany",
+          "churnRate": 97
+        },
+        {
+          "country": "India",
+          "churnRate": 94
+        },
+        {
+          "country": "Pakistan",
+          "churnRate": 97
+        },
+        {
+          "country": "UK",
+          "churnRate": 94
+        },
+        {
+          "country": "USA",
+          "churnRate": 98
+        }
+      ]
+    },
+    {
+      "name": "Clothing",
+      "countryData": [
+        {
+          "country": "Canada",
+          "churnRate": 93
+        },
+        {
+          "country": "Germany",
+          "churnRate": 96
+        },
+        {
+          "country": "India",
+          "churnRate": 95
+        },
+        {
+          "country": "Pakistan",
+          "churnRate": 90
+        },
+        {
+          "country": "UK",
+          "churnRate": 98
+        },
+        {
+          "country": "USA",
+          "churnRate": 94
+        }
+      ]
+    },
+    {
+      "name": "Beauty",
+      "countryData": [
+        {
+          "country": "Canada",
+          "churnRate": 95
+        },
+        {
+          "country": "Germany",
+          "churnRate": 92
+        },
+        {
+          "country": "India",
+          "churnRate": 95
+        },
+        {
+          "country": "Pakistan",
+          "churnRate": 96
+        },
+        {
+          "country": "UK",
+          "churnRate": 92
+        },
+        {
+          "country": "USA",
+          "churnRate": 92
+        }
+      ]
+    },
+    {
+      "name": "Electronics",
+      "countryData": [
+        {
+          "country": "Canada",
+          "churnRate": 96
+        },
+        {
+          "country": "Germany",
+          "churnRate": 92
+        },
+        {
+          "country": "India",
+          "churnRate": 94
+        },
+        {
+          "country": "Pakistan",
+          "churnRate": 92
+        },
+        {
+          "country": "UK",
+          "churnRate": 95
+        },
+        {
+          "country": "USA",
+          "churnRate": 93
+        }
+      ]
+    }
+  ]
+}
